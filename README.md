@@ -1,1 +1,1 @@
-# EMOTION-ANALYSIS
+# EMOTION-ANALYSIS without using NLTK.
